@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Quentin Higueret"
 description              : &description "personal description"
 url                      : https://qhig.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image_bio.png"
-  name             : "Your Sidebar Name"
+  avatar           : "image_bio.jpg"
+  name             : "Quentin Higueret"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "ISTerre"
+  employer         : "Grenoble Alpes University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "quentin.higueret"at"univ-grenoble-alpes.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
