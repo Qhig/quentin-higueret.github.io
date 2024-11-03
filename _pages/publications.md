@@ -1,8 +1,10 @@
 ---
-layout: archive
+permalink: /
 title: "Publications"
-permalink: /publications/
 author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
 [Google Scholar profile](https://scholar.google.com/citations?user=hITY0IcAAAAJ&hl=en).
 
