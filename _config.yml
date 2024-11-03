@@ -341,6 +341,12 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+scholar:
+  style: apa
+  source: ./bibliography
+  bibliography: publications.bib
+  order: descending
+  details_link: true
 
 # HTML Compression
 # - http://jch.penibelst.de/
