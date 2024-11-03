@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, I'm Quentin"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Ph.D. candidate in Seismology at University Grenoble Alpes, working at ISTerre. My work is centered on two primary aspects of seismic research. First, I leverage long-term experiments with dense nodal arrays, being part of the ERC-funded FaultScan project, in which we deployed 300 stations near the San Jacinto Fault (CA). This allows for a detailed study of microseismicity and the temporal evolution of fault processes. Through these experiments, I aim to reveal patterns in seismicity, including small earthquakes and persistent tremor signals, that provide insight into fluid migration and slow-slip events.
+
+The second aspect of my research focuses on noise-based monitoring and body-wave modeling. I reconstruct body waves using noise correlation functions with passing trains as seismic sources, enabling the detection of temporal velocity variations at depth. By modeling these correlations, I simulate waveform interactions that incorporate the fault's impact on seismic velocity variations, offering potential explanations for observed changes and advancing the understanding of subsurface processes.
 
 A data-driven personal website
 ======
