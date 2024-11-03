@@ -346,7 +346,7 @@ tag_archive:
 scholar:
   style: apa
   source: ./_bibliography
-  bibliography: publications.bib
+  bibliography: ref.bib
   order: descending
   details_link: true
 
