@@ -1,6 +1,6 @@
 ---
-title: ""
-permalink: /publications/publications
+title: "gg"
+permalink: /
 ---
 [Google Scholar profile](https://scholar.google.com/citations?user=hITY0IcAAAAJ&hl=en).
 
