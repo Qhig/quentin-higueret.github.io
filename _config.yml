@@ -301,7 +301,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  - jekyll-scholar
   - jemoji
 
 # Mimic GitHub Pages with --safe
