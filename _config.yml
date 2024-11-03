@@ -21,7 +21,7 @@ repository               : "Qhig/qhig.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image_bio.jpg"
+  avatar           : "image_bio_github.jpg"
   name             : "Quentin Higueret"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Seismology"
