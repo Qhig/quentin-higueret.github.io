@@ -301,6 +301,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-scholar
   - jemoji
 
@@ -310,6 +311,7 @@ whitelist:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-scholar
   - jemoji
 
 
