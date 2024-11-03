@@ -12,4 +12,4 @@ I am a Ph.D. candidate in Seismology at University Grenoble Alpes, working at IS
 The second aspect of my research focuses on noise-based monitoring and body-wave modeling. I reconstruct body waves using noise correlation functions, utilizing passing freight trains as seismic sources to monitor temporal velocity variations at depth along the San Jacinto Fault (CA). Through modeling these correlations, I simulate waveform interactions that reflect the fault's influence on seismic velocity variations, providing potential explanations for observed changes and enhancing the understanding of subsurface processes.
 
 
-![Editing a markdown file for a talk](/images/Image1good.png)
+![Faultscan Array](/images/Image1good.png){: .align-right width="300px"}
