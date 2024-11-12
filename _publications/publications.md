@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 [Google Scholar profile](https://scholar.google.com/citations?user=hITY0IcAAAAJ&hl=en).
 
-- **Higueret Quentin**, Sheng Yixiao, Mordret Aurelien, Brenguier Florent, Boué Pierre, Fichtner Andreas, Vernon Frank, Krischer Lion, Hollis Dan, Aubert Coralie, Ben-Zion Yehuda (2024). “Body-Waves from Train Noise Correlations: Potential and Limits for Monitoring the San Jacinto Fault, CA”. *Geophysical Journal International*. Submitted.
+- **Higueret Quentin**, Sheng Yixiao, Mordret Aurelien, Brenguier Florent, Boué Pierre, Fichtner Andreas, Vernon Frank, Krischer Lion, Hollis Dan, Aubert Coralie, Ben-Zion Yehuda (2024). “Body-Waves from Train Noise Correlations: Potential and Limits for Monitoring the San Jacinto Fault, CA”. *Geophysical Journal International*.
 
 - **Higueret Quentin**, Sheng Yixiao, Mordret Aurelien, Brenguier Florent, Boué Pierre, Vernon Frank, Hollis Dan, Aubert Coralie, Ben-Zion Yehuda (2024). “A Novel Large-N Seismic Array for an Enhanced Understanding of the San Jacinto Fault Dynamics”. *Seismological Research Letters*. In preparation.
 
