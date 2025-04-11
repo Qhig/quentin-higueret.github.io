@@ -8,7 +8,7 @@ permalink: /publications/
 
 - **Higueret Quentin**, Sheng Yixiao, Mordret Aurelien, Brenguier Florent, Boué Pierre, Vernon Frank, Hollis Dan, Aubert Coralie, Ben-Zion Yehuda (2024). “A Novel Large-N Seismic Array for an Enhanced Understanding of the San Jacinto Fault Dynamics”. *Seismological Research Letters*. In preparation.
 
-- Paris Nicolas, Itoh Yuji, Brenguier Florent, Wang Qing-Yu, Sheng Yixiao, Okada Tomomi, Uchida Naoki, **Higueret Quentin**, Takagi Ryota, Sakai Shin’ichi, Hirahara Satoshi, Kimura Shu’utoku (2024). “Coseismic crustal seismic velocity changes associated with the 2024 Mw 7.5 Noto earthquake, Japan”. *Earth, Planets and Space*. Submitted.
+- Paris Nicolas, Itoh Yuji, Brenguier Florent, Wang Qing-Yu, Sheng Yixiao, Okada Tomomi, Uchida Naoki, **Higueret Quentin**, Takagi Ryota, Sakai Shin’ichi, Hirahara Satoshi, Kimura Shu’utoku (2024). “Coseismic crustal seismic velocity changes associated with the 2024 Mw 7.5 Noto earthquake, Japan”. *Earth, Planets and Space*.
 
 - Sheng Yixiao, Brenguier Florent, Mordret Aurélien, **Higueret Quentin**, Aubert Coralie, Pinzon-Rincon Laura, Hollis Daniel, Vernon Frank, Wyatt Frank, Ben-Zion Yehuda (2024). “In situ velocity-strain sensitivity near the San Jacinto Fault Zone analyzed through train tremors”. *Geophysical Research Letters* 51.15, e2024GL110113.
 
